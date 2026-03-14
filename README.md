@@ -20,7 +20,7 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 
 ### Blueprint
 #### Quality Assurance Intern 
-June 2025 – September 2025
+##### June 2025 – September 2025
 ●	Designed and implemented end-to-end tests using Playwright, to validate multi-role user workflows in a web platform connecting community stewards, investors, and fund managers. 
 ●	Automated validation of responsive navigation, accessibility (ARIA roles, keyboard interactions), and dynamic UI rendering to ensure cross-device reliability.
 ●	Strengthened backend stability by writing unit tests for API endpoints and server-side actions using Jest, improving regression coverage for authentication and data flows.
