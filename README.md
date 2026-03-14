@@ -26,12 +26,12 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 3.  Strengthened backend stability by writing unit tests for API endpoints and server-side actions using Jest, improving regression coverage for authentication and data flows.
 
 
-### Epic Retail (https://github.com/smiij/Epic-Retail)
+### [Epic Retail] (https://github.com/smiij/Epic-Retail)
 1.	Developed and deployed a full stack e-commerce platform that enables users to buy and sell clothing utilized Node.js for backend logic and SQLite for database management.
 2.  Implemented user authentication and validation systems to ensure secure account creation and login functionality.
 3.	Designed dynamic product loading and filtering features, allowing users to efficiently browse items
 
-### Analyzing the Airline Industry during Covid (R) (https://aminahmackeen.shinyapps.io/BC-7_Final/)
+### [Analyzing the Airline Industry during Covid] (R) (https://aminahmackeen.shinyapps.io/BC-7_Final/)
 1. Worked in a team of three to create a compelling data presentation, enhancing communication of complex datasets
 2. Implemented a comprehensive data analysis project using R to assess the impacts of Covid on the airline industry
 3. Gathered and processed large datasets, including financial reports and operational metrics using R programming for efficient data manipulation and cleaning.
