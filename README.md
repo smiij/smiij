@@ -1,12 +1,15 @@
 ## Hi there 👋 I'm Andy
 
-I'm a Full Stack Developer interested in creating interesting projects.
+I'm a current Senior at the University of Washington with an interest in Full Stack Development and Data Science. 
+My classes at UW have allowed me to be a part of creating some interesting projects exploring Information Retrieval, Web Development and Data Science in detail.
+This has contributed to my interest in expanding my skillset and becoming a better developer.
 
-## About Me
+## About Me 😄
 
 - Pronouns: He/Him
-- Senior at the University of Washington
-- Contact me: [(https://www.linkedin.com/in/andy-prempeh/)]
+- 📚 Senior at the University of Washington
+- Part of my UW chapter of the National Society of Black Engineers
+- Scholar of the Brotherhood Initiative
 
 ## Education
 - University of Washington Information School
@@ -37,7 +40,9 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 3. Gathered and processed large datasets, including financial reports and operational metrics using R programming for efficient data manipulation and cleaning.
 4. Deployed a data analysis project using Shiny, transforming complex datasets into an interactive web application, enabling real-time data visualization.
 
-
+## Thanks for reading all about me! Contact Me here
+- Contact me: [(https://www.linkedin.com/in/andy-prempeh/)]
+- Email: akbpremp@gmail.com
 
 <!--
 **smiij/smiij** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
