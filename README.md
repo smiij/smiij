@@ -26,7 +26,7 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 1. Built a SharePoint-integrated DAM web app (React + FastAPI) with MSAL OAuth and Microsoft Graph API for file upload, metadata management, and audit logging.
 2. Provisioned SharePoint content types, site columns, and managed term sets programmatically via Graph API, replacing a manual IT setup process.
 3. Designed a batch-tagging UX based on user research, reducing image cataloguing time from 40+ minutes to under 5 minutes per session.
-4. 
+
 ### Blueprint
 #### Quality Assurance Intern 
 ##### June 2025 – September 2025
