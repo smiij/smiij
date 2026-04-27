@@ -21,13 +21,17 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 
 ## Experience
 
+### Pacific Bonsai Museum Image Uploader
+1. Built a SharePoint-integrated DAM web app (React + FastAPI) with MSAL OAuth and Microsoft Graph API for file upload, metadata management, and audit logging.
+2. Provisioned SharePoint content types, site columns, and managed term sets programmatically via Graph API, replacing a manual IT setup process.
+3. Designed a batch-tagging UX based on user research, reducing image cataloguing time from 40+ minutes to under 5 minutes per session.
+4. 
 ### Blueprint
 #### Quality Assurance Intern 
 ##### June 2025 – September 2025
 1.	Designed and implemented end-to-end tests using Playwright, to validate multi-role user workflows in a web platform connecting community stewards, investors, and fund managers. 
 2.  Automated validation of responsive navigation, accessibility (ARIA roles, keyboard interactions), and dynamic UI rendering to ensure cross-device reliability.
 3.  Strengthened backend stability by writing unit tests for API endpoints and server-side actions using Jest, improving regression coverage for authentication and data flows.
-
 
 ### [Epic Retail](https://github.com/smiij/Epic-Retail)
 1.	Developed and deployed a full stack e-commerce platform that enables users to buy and sell clothing utilized Node.js for backend logic and SQLite for database management.
