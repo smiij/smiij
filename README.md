@@ -21,6 +21,7 @@ Languages: Python, R, Java, HTML, Tableau, CSS, R
 
 ## Experience
 
+### Capstone Project
 ### Pacific Bonsai Museum Image Uploader
 1. Built a SharePoint-integrated DAM web app (React + FastAPI) with MSAL OAuth and Microsoft Graph API for file upload, metadata management, and audit logging.
 2. Provisioned SharePoint content types, site columns, and managed term sets programmatically via Graph API, replacing a manual IT setup process.
