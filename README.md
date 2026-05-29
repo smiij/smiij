@@ -1,15 +1,6 @@
 ## Hi there 👋 I'm Andy
 
-I'm a current Senior at the University of Washington with an interest in Full Stack Development and Data Science. 
-My classes at UW have allowed me to be a part of creating some interesting projects exploring Information Retrieval, Web Development and Data Science in detail.
-This has contributed to my interest in expanding my skillset and becoming a better developer.
-
-## About Me 😄
-
-- Pronouns: He/Him
-- 📚 Senior at the University of Washington
-- Part of my UW chapter of the National Society of Black Engineers
-- Scholar of the Brotherhood Initiative
+I'm a current Senior at the University of Washington with an interest in Full Stack Development, Cloud Engineering and Data Science. I have been a scholar of the Brotherhood Inititative, a program that supports first generation students. Additionally I have served on the board of my local NSBE chapter, contributing to the professional growth of myself and our members. My interest in technology comes from a place of interest, as the pace of technological growth increases, being able to learn about that technology firsthand would allow me to contribute to new and interesting uses of it. My classes at UW have allowed me to be a part of creating some interesting projects exploring Information Retrieval, Web Development and Data Science in detail. This has contributed to my interest in expanding my skillset and becoming a better developer.
 
 ## Education
 - University of Washington Information School
@@ -17,8 +8,8 @@ This has contributed to my interest in expanding my skillset and becoming a bett
 - September 2022 - June 2026
 
 ## Technical Skills
-Languages: Python, R, Java, HTML, Tableau, CSS, R
-
+Languages: Python, R, Java, HTML, Tableau, CSS, R, Typescript, React
+Software: IntelliJ, Visual Studio, GitHub, Xcode, Azure, Docker, Node.js
 ## Experience
 
 ### Capstone Project
